@@ -1,4 +1,4 @@
-Hi, I'm Andrei. Here are a list of facts about me:
+Hi, I'm Andrei. Here is a list of facts about me:
 
 - Born in Santos, São Paulo. The city of Pelé.
 - Worked for Petrobras during 5 years. During this period, learned a lot
