@@ -7,11 +7,8 @@ about the Oil and Gas industry.
 - Dropped from masters' degree on Recommender Systems after 2.5 years trying
 to understand and foster serendipity in Recsys.
 - Love other people's pets. Scared about the possibility to have one.
-- Vegetarian since 2016.
+- Vegetarian between 2016 and 2022.
 - I enjoy doing things the right way!
 - Very systematic person. Always trying to look at the bigger picture and
 optimize for the long run instead of pursuing short term gains.
 - Like to learn new programming languages and frameworks.
-- Probably the next programming language I will give a try is C++ for fast matrix
-operations.
-- Struggling to make meaningful contributions to Open Source Software.
