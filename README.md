@@ -4,7 +4,7 @@ Hi, I'm Andrei. Here is a list of facts about me:
 - Worked for Petrobras during 5 years. During this period, learned a lot
 about the Oil and Gas industry.
 - Studied abroad for 1 year in the beautiful city of Brighton (UK).
-- Dropped a masters' degree on Recommender Systems after 2.5 years trying
+- Dropped from masters' degree on Recommender Systems after 2.5 years trying
 to understand and foster serendipity in Recsys.
 - Love other people's pets. Scared about the possibility to have one.
 - Vegetarian since 2016.
