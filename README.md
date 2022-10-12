@@ -9,6 +9,6 @@ to understand and foster serendipity in Recsys.
 - Love other people's pets. Scared about the possibility to have one.
 - Vegetarian between 2016 and 2022.
 - I enjoy doing things the right way!
-- Very systematic person. Always trying to look at the bigger picture and
-optimize for the long run instead of pursuing short term gains.
+- Always looking at the bigger picture and
+optimizing for the long run rather than pursuing short term gains.
 - Like to learn new programming languages and frameworks.
